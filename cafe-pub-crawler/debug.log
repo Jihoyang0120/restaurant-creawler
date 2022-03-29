@@ -1,0 +1,4 @@
+[1106/111153.842:ERROR:process_reader_win.cc(123)] NtOpenThread: {�׼��� �ź�} ���μ����� ��ü�� �׼����� �䱸������ �׼��� ������ �����ϴ�. (0xc0000022)
+[1106/111153.844:ERROR:exception_snapshot_win.cc(88)] thread ID 7020 not found in process
+[1106/111539.991:ERROR:process_reader_win.cc(123)] NtOpenThread: {�׼��� �ź�} ���μ����� ��ü�� �׼����� �䱸������ �׼��� ������ �����ϴ�. (0xc0000022)
+[1106/111539.991:ERROR:exception_snapshot_win.cc(88)] thread ID 5860 not found in process
